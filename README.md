@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 ## 📂 Featured Projects
 - **🌊 AI 기반 지하수위 예측(시계열)**  
   LSTM/Transformer로 **7일 선행 예측** 및 NSE/KGE 지표 대시보드.  
-  [Repo(예시)](https://github.com/younsook/groundwater-prediction) · [Demo(선택)](https://youtu.be/XXXXXXXX)
+  [Repo(예시)](https://github.com/younsook/groundwater-prediction) · [Demo(시연영상)](https://www.awesomescreenshot.com/video/45335614?key=22b6bf02e01734f2ad832fc28d025077)
 
 - **🔐 Spring Boot Auth & REST 템플릿**  
   회원가입/로그인(JWT), 예측결과 API, Swagger 문서화, JPA 기반 샘플.  
@@ -114,5 +114,5 @@ Here are some ideas to get you started:
 
 ## 📫 Contact
 - **GitHub**: [@younsook](https://github.com/younsook)
-- **Email**: <!-- TODO: 이메일 공개 시 아래 주소를 본인 것으로 교체하세요 --> name@example.com
+- **Email**: <!-- TODO: 이메일 공개 시 아래 주소를 본인 것으로 교체하세요 --> hodu0622@naver.com
 
