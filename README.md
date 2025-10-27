@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 ### 💡 About Me
 데이터와 웹을 잇는 **풀스택형 분석가/개발자**입니다.  
-**Next.js + Spring Boot + MySQL** 기반의 웹 서비스와, **시계열 ML(예: LSTM/Transformer)** 로 예측 모델을 만드는 일에 관심이 많아요.  
-문제를 정의→데이터 모델링→API/대시보드 구현까지 **끝단까지 연결**하는 일을 즐깁니다.
+**Next.js + Spring Boot + MySQL**로 서비스를 만들고, **시계열 ML(LSTM · Transformer)** 로 지하수위 등 예측 모델을 설계·개발합니다.  
+아이디어 정의 → 데이터 전처리/모델링 → **REST API** 구현 → **대시보드** 구축까지 **엔드투엔드**로 연결하는 일을 즐깁니다.
 
 ---
 
@@ -96,6 +96,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1">
   <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1" alt="AI Dashboard Design" width="720">
 </a>
+
+### Demo
+[![Demo Thumbnail](docs/video/demo_thumb.png)](https://github.com/younsook/ai-dashboard/blob/main/docs/video/20251016_watervideo.mp4)
+
 
 > 구성: **Data/ML(`507_water_Data`) → API(`507_water_BEPDev`) → Dashboard(`ai-dashboard`)**  
 > 실제 레포 링크로 연결되어 있어, 각각의 README/코드/데이터를 바로 확인할 수 있습니다.
