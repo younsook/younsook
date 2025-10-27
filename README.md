@@ -98,8 +98,9 @@ Here are some ideas to get you started:
 </a>
 
 ### Demo
-[![Demo Thumbnail](docs/video/demo_thumb.png)](https://github.com/younsook/ai-dashboard/blob/main/docs/video/20251016_watervideo.mp4)
-
+<a href="https://github.com/younsook/ai-dashboard/blob/main/docs/video/20251016_watervideo.mp4">
+  <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/video/demo_thumb.png?raw=1" alt="Demo Thumbnail" width="640" />
+</a>
 
 > 구성: **Data/ML(`507_water_Data`) → API(`507_water_BEPDev`) → Dashboard(`ai-dashboard`)**  
 > 실제 레포 링크로 연결되어 있어, 각각의 README/코드/데이터를 바로 확인할 수 있습니다.
