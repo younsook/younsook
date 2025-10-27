@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- 타이핑 효과 -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20%26%20AI%20Enthusiast;Software%20Developer;I%20build%20useful%20web%20%26%20data%20products.&center=true&vCenter=true&pause=1200&size=24&color=%2336BCF7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20%26%20AI%20Enthusiast;Software%20Developer;I%20build%20useful%20web%20%26%20data%20products.&center=true&vCenter=true&pause=1200&size=24&font=Fira+Code&color=%230288D1" alt="Typing SVG" />
   </a>
 </p>
 
