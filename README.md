@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 <!-- 헤더 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Younsook's%20GitHub&fontSize=50&fontColor=5C5C5C&animation=fadeIn" alt="header" />
-</p>
-
 <!-- 타이핑 효과 -->
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20%26%20AI%20Enthusiast;Software%20Developer;I%20build%20useful%20web%20%26%20data%20products.&center=true&vCenter=true&pause=1200&size=24&font=Fira+Code&color=%230288D1" alt="Typing SVG" />
   </a>
