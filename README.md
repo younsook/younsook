@@ -93,20 +93,27 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Featured Projects
-- **🌊 AI 기반 지하수위 예측(시계열)**  
-  LSTM/Transformer로 **7일 선행 예측** 및 NSE/KGE 지표 대시보드.
-  [📄 디자인 시안(PNG)](https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png)
-  [Repo(예시)](https://github.com/younsook/groundwater-prediction) · [Demo(시연영상)](https://www.awesomescreenshot.com/video/45335614?key=22b6bf02e01734f2ad832fc28d025077)
+## 🌊 AI 기반 지하수위 예측 (시계열)
 
-- **🔐 Spring Boot Auth & REST 템플릿**  
-  회원가입/로그인(JWT), 예측결과 API, Swagger 문서화, JPA 기반 샘플.  
-  [Repo(예시)](https://github.com/younsook/springboot-rest-starter)
+LSTM / Transformer로 **7일 선행 예측**을 수행하고, **NSE/KGE** 등 지표를 대시보드로 확인합니다.  
+데이터 전처리·학습(ML) / 백엔드 REST API / 대시보드(프론트)로 모듈을 분리했습니다.
 
-- **📊 Next.js 모델런 대시보드**  
-  업로드→모델 실행 이력→메트릭/시각화까지 One-Stop UI.  
-  [Repo(예시)](https://github.com/younsook/ai-dashboard)
+### 링크
+- **데이터 & 노트북(ML)**: [`507_water_Data`](https://github.com/younsook/507_water_Data)  
+  전처리된 CSV, 실험 메트릭 요약, Jupyter 노트북 등 (대용량 CSV는 Git LFS 사용)
+- **대시보드 디자인(Next.js UI 시안)**: [`ai-dashboard`](https://github.com/younsook/ai-dashboard)  
+  [📄 PNG 시안 바로보기](https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1)
+- **백엔드 REST API(Spring Boot)**: [`507_water_BEPDev`](https://github.com/younsook/507_water_BEPDev)
 
-> 위 링크는 예시 레포지토리명입니다. 실제 저장소명을 쓰고 싶으면 `younsook/<repo-name>` 으로 바꿔주세요.
+### 미리보기
+<a href="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1">
+  <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1" alt="AI Dashboard Design" width="720">
+</a>
+
+> 구성: **Data/ML(`507_water_Data`) → API(`507_water_BEPDev`) → Dashboard(`ai-dashboard`)**  
+> 실제 레포 링크로 연결되어 있어, 각각의 README/코드/데이터를 바로 확인할 수 있습니다.
+
+
 
 ---
 
