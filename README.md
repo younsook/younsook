@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 ## 📂 Featured Projects
 - **🌊 AI 기반 지하수위 예측(시계열)**  
   LSTM/Transformer로 **7일 선행 예측** 및 NSE/KGE 지표 대시보드.
-  [📄 디자인 시안(PDF)](https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard_v1.pdf)
+  [📄 디자인 시안(PDF)](https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T07-03-16-495Z.pdf)
   [Repo(예시)](https://github.com/younsook/groundwater-prediction) · [Demo(시연영상)](https://www.awesomescreenshot.com/video/45335614?key=22b6bf02e01734f2ad832fc28d025077)
 
 - **🔐 Spring Boot Auth & REST 템플릿**  
