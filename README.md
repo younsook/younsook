@@ -75,3 +75,44 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=younsook&style=flat-square" />
 </p>
 -->
+
+---
+
+### 💡 About Me
+데이터와 웹을 잇는 **풀스택형 분석가/개발자**입니다.  
+**Next.js + Spring Boot + MySQL** 기반의 웹 서비스와, **시계열 ML(예: LSTM/Transformer)** 로 예측 모델을 만드는 일에 관심이 많아요.  
+문제를 정의→데이터 모델링→API/대시보드 구현까지 **끝단까지 연결**하는 일을 즐깁니다.
+
+---
+
+## 🔧 Skills
+- **Languages**: Python, JavaScript/TypeScript, SQL, (Java – Spring Boot)
+- **Web**: React, Next.js, TailwindCSS, REST API, Swagger(OpenAPI)
+- **Backend**: Spring Boot, JPA, JWT/OAuth2
+- **Data/ML**: Pandas, NumPy, scikit-learn, PyTorch (기본), Matplotlib
+- **Databases**: MySQL (설계/쿼리/튜닝 기본)
+- **DevOps/ETC**: Git & GitHub, Vercel, Docker(기초), GitHub Actions(기초)
+
+---
+
+## 📂 Featured Projects
+- **🌊 AI 기반 지하수위 예측(시계열)**  
+  LSTM/Transformer로 **7일 선행 예측** 및 NSE/KGE 지표 대시보드.  
+  [Repo(예시)](https://github.com/younsook/groundwater-prediction) · [Demo(선택)](https://youtu.be/XXXXXXXX)
+
+- **🔐 Spring Boot Auth & REST 템플릿**  
+  회원가입/로그인(JWT), 예측결과 API, Swagger 문서화, JPA 기반 샘플.  
+  [Repo(예시)](https://github.com/younsook/springboot-rest-starter)
+
+- **📊 Next.js 모델런 대시보드**  
+  업로드→모델 실행 이력→메트릭/시각화까지 One-Stop UI.  
+  [Repo(예시)](https://github.com/younsook/ai-dashboard)
+
+> 위 링크는 예시 레포지토리명입니다. 실제 저장소명을 쓰고 싶으면 `younsook/<repo-name>` 으로 바꿔주세요.
+
+---
+
+## 📫 Contact
+- **GitHub**: [@younsook](https://github.com/younsook)
+- **Email**: <!-- TODO: 이메일 공개 시 아래 주소를 본인 것으로 교체하세요 --> name@example.com
+
