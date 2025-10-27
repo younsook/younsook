@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+#### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-20232a.svg?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -36,14 +36,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Next.js-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
 </p>
 
-### Backend / DB
+#### Backend / DB
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
   <img src="https://img.shields.io/badge/MySQL-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/REST%20API-20232a.svg?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
 </p>
 
-### Data / AI
+#### Data / AI
 <p>
   <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/PyTorch-20232a.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
@@ -51,27 +51,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Pandas-20232a.svg?style=for-the-badge&logo=pandas&logoColor=150458" />
 </p>
 
-### DevOps / Deploy
+#### DevOps / Deploy
 <p>
   <img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Vercel-20232a.svg?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-20232a.svg?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 </p>
 
----
 
-## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=younsook&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younsook&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
-<!-- 방문자 수(원하면 사용) -->
-<!--
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=younsook&style=flat-square" />
-</p>
--->
 
 ---
 
@@ -95,17 +82,17 @@ Here are some ideas to get you started:
 ## 📂 Featured Projects
 ## 🌊 AI 기반 지하수위 예측 (시계열)
 
-LSTM / Transformer로 **7일 선행 예측**을 수행하고, **NSE/KGE** 등 지표를 대시보드로 확인합니다.  
-데이터 전처리·학습(ML) / 백엔드 REST API / 대시보드(프론트)로 모듈을 분리했습니다.
+- **목표**: 지하수 함양(충전) 특성을 분석하고, 시계열 AI 모델로 **향후 7일 지하수위**를 예측합니다.  
+- **모델**: LSTM · Transformer 기반 다변량 시계열 → **NSE, KGE, R², RMSE** 등 지표로 성능 검증  
+- **구성**: 데이터/학습(ML) · 백엔드 REST API · 대시보드(프론트) **모듈 분리 운영**
 
 ### 링크
 - **데이터 & 노트북(ML)**: [`507_water_Data`](https://github.com/younsook/507_water_Data)  
   전처리된 CSV, 실험 메트릭 요약, Jupyter 노트북 등 (대용량 CSV는 Git LFS 사용)
 - **대시보드 디자인(Next.js UI 시안)**: [`ai-dashboard`](https://github.com/younsook/ai-dashboard)  
-  [📄 PNG 시안 바로보기](https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1)
 - **백엔드 REST API(Spring Boot)**: [`507_water_BEPDev`](https://github.com/younsook/507_water_BEPDev)
 
-### 미리보기
+### 📄 시안 미리보기
 <a href="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1">
   <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1" alt="AI Dashboard Design" width="720">
 </a>
@@ -121,3 +108,15 @@ LSTM / Transformer로 **7일 선행 예측**을 수행하고, **NSE/KGE** 등 �
 - **GitHub**: [@younsook](https://github.com/younsook)
 - **Email**: <!-- TODO: 이메일 공개 시 아래 주소를 본인 것으로 교체하세요 --> hodu0622@naver.com
 
+---
+
+## GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=younsook&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younsook&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
+
+<!-- 방문자 수(원하면 사용) -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=younsook&style=flat-square" />
+</p>
