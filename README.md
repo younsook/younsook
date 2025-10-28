@@ -63,9 +63,10 @@ Here are some ideas to get you started:
 ---
 
 ### 💡 About Me
-데이터와 웹을 잇는 **풀스택형 분석가/개발자**입니다.  
-**Next.js + Spring Boot + MySQL**로 서비스를 만들고, **시계열 ML(LSTM · Transformer)** 로 지하수위 등 예측 모델을 설계·개발합니다.  
-아이디어 정의 → 데이터 전처리/모델링 → **REST API** 구현 → **대시보드** 구축까지 **엔드투엔드**로 연결하는 일을 즐깁니다.
+데이터와 웹을 연결하는 **풀스택 데이터 엔지니어/개발자**입니다.  
+**Next.js · Spring Boot · MySQL**로 서비스를 설계·구현하고, **시계열 ML(LSTM·Transformer)** 로 지하수위 등 도메인 문제를 모델링·검증(**NSE·KGE·RMSE·R²**)합니다.  
+요구정의 → 데이터 전처리/특성화 → 모델 학습/평가 → **REST API** 제공 → **대시보드** 구현까지 **엔드투엔드 파이프라인**을 구축합니다.
+
 
 ---
 
@@ -92,12 +93,12 @@ Here are some ideas to get you started:
 - **대시보드 디자인(Next.js UI 시안)**: [`ai-dashboard`](https://github.com/younsook/ai-dashboard)  
 - **백엔드 REST API(Spring Boot)**: [`507_water_BEPDev`](https://github.com/younsook/507_water_BEPDev)
 
-### 📄 시안 미리보기
+### 🎨 디자인
 <a href="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1">
   <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1" alt="AI Dashboard Design" width="720">
 </a>
 
-### Demo
+### 🎬 Demo
 <a href="https://github.com/younsook/ai-dashboard/blob/main/docs/video/20251016_watervideo.mp4">
   <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/video/demo_thumb.png?raw=1" alt="Demo Thumbnail" width="640" />
 </a>
@@ -115,7 +116,7 @@ Here are some ideas to get you started:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=younsook&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younsook&layout=compact&theme=transparent&hide_border=true" height="165" />
@@ -123,5 +124,5 @@ Here are some ideas to get you started:
 
 <!-- 방문자 수(원하면 사용) -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=younsook&style=flat-square" />
+  👀 <img src="https://komarev.com/ghpvc/?username=younsook&style=flat-square" />
 </p>
