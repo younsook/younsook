@@ -92,6 +92,7 @@ Here are some ideas to get you started:
   전처리된 CSV, 실험 메트릭 요약, Jupyter 노트북 등 (대용량 CSV는 Git LFS 사용)
 - **대시보드 디자인(Next.js UI 시안)**: [`ai-dashboard`](https://github.com/younsook/ai-dashboard)  
 - **백엔드 REST API(Spring Boot)**: [`507_water_BEPDev`](https://github.com/younsook/507_water_BEPDev)
+- **🎬 데모 영상**: [`GitHub 다운로드/재생`](https://github.com/younsook/ai-dashboard/blob/main/docs/video/20251016_watervideo.mp4?raw=1)
 
 ### 🎨 디자인
 <a href="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1">
@@ -99,7 +100,7 @@ Here are some ideas to get you started:
 </a>
 
 ### 🎬 Demo
-<a href="https://github.com/younsook/ai-dashboard/blob/main/docs/video/20251016_watervideo.mp4">
+<a href="https://www.awesomescreenshot.com/video/45335614?key=22b6bf02e01734f2ad832fc28d025077">
   <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/video/demo_thumb.png?raw=1" alt="Demo Thumbnail" width="640" />
 </a>
 
