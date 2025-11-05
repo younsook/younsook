@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 </a>
 
 ### 🎬 Demo
-<a href="https://www.awesomescreenshot.com/video/45335614?key=22b6bf02e01734f2ad832fc28d025077" target="_blank" rel="noopener noreferrer">
+<a href="https://youtu.be/4iFNgbrxHKY" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/younsook/ai-dashboard/blob/main/docs/video/demo_thumb.png?raw=1" alt="Demo Thumbnail" width="640" />
 </a>
 
