@@ -105,7 +105,6 @@ Here are some ideas to get you started:
 - **프론트엔드**: [`507_water_FEPDev`](https://github.com/younsook/507_water_FEPDev)
 - **🎬 데모 영상**: [`GitHub 다운로드/재생`](https://github.com/younsook/ai-dashboard/blob/main/docs/video/20251016_watervideo.mp4?raw=1)
 - **🎬 데모 영상**: [`251110`](https://www.awesomescreenshot.com/video/46195445?key=8b30a023ba340b48f3bfe80492b125d9)
-- 
 
 ### 🎨 디자인
 <a href="https://github.com/younsook/ai-dashboard/blob/main/docs/design/dashboard-2025-10-16T04-13-07-964Z.png?raw=1">
